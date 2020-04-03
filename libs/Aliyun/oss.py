@@ -72,6 +72,6 @@ if __name__ == '__main__':
         oss_config.get('STORAGE_KEY_ID'),oss_config.get('STORAGE_KEY_SECRET'),oss_config.get('STORAGE_REGION'),
         oss_config.get('STORAGE_NAME'),oss_config.get('STORAGE_PATH'))
     #obj.setObj(data)
-    data = obj.getObj('vTPywdUPtEAZpMVc9facQJ')
+    data = obj.getObj('fsfsfsfsfsfsfsfsfsf')
 
 

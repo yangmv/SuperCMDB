@@ -17,10 +17,10 @@ def get_oss_config():
         # 接口暂时不可用
         data = {
             "STORAGE_REGION":"cn-shanghai",
-            "STORAGE_NAME":"shinezone-opendevops",
+            "STORAGE_NAME":"test01",
             "STORAGE_PATH":"record",
-            "STORAGE_KEY_ID":"LTAIRiWZ3L2W7NQc",
-            "STORAGE_KEY_SECRET":"vjUr6a6YcWlUqKO8WEJFLdINCdG42e"
+            "STORAGE_KEY_ID":"11111111111111",
+            "STORAGE_KEY_SECRET":"222222222222222"
         }
     except Exception as e:
         data = None
